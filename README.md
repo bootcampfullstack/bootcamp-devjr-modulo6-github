@@ -1,1 +1,1 @@
-# bootcamp-devjr-modulo6-github
+# Bootcamp DevJunior - Módulo 06 - Projeto GitHub
